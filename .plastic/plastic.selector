@@ -1,0 +1,4 @@
+repository "BoostRocket@developergsus@cloud"
+  path "/"
+    br "/main"
+    co "/main"
